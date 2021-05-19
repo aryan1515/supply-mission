@@ -1,2 +1,1 @@
-# supply-mission
-p25
+# SupplyMission
